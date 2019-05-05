@@ -1,0 +1,266 @@
+.in1
+  {
+     width:1000px;
+    border: solid red 0px;
+     background: url(images/headerbg.jpg) no-repeat;
+
+  }
+.in1_1
+ {
+   width:210px;
+    height:auto;
+   float:left;
+   border: solid red 0px;
+    padding-left: 30px;
+    padding-top: 10px;
+   
+ }
+.in1_2
+ {
+    width:350px;
+      height:auto;
+     float:left;
+     text-align:center;
+     font-size:20px;
+     color: #2B5497;
+     border: solid red 0px;
+      
+     margin-left:35px;
+     margin-top: 20px;
+    
+  
+   
+ }
+.in1_3
+ {
+     width:300px;
+      
+     float:left;
+     text-align:center;
+     font-size:22px;
+     color:#000000;
+     border: solid red 0px;
+     background: url(images/topcontactbg.pn) no-repeat;
+     margin-top: 20px; 
+     margin-left: 30px; 
+     padding-top: 10px;
+ 
+ }
+ .no
+ { color: white;
+
+
+ }
+
+
+.in2
+{
+  width: 1000px;
+  height:48px;
+  border: solid red 1px;
+    
+  background: url(images/menubg.jpg) repeat-x;
+   
+}
+
+.home
+{  width: 127px;
+	 height:44px;
+	float:left;
+	text-align: center;
+  margin-left: 75px ;
+  margin-top: 8px;
+  padding-top: 10px;
+	background: url(images/menubackground.png) no-repeat;
+}
+.home_active
+{
+width: 127px;
+   height:44px;
+  float:left;
+  text-align: center;
+  margin-left: 75px ;
+  margin-top: 8px;
+  padding-top: 10px;
+  background: url(images/menuactive.png) no-repeat;
+
+}
+.about
+{  width: 127px;
+  height: 44px;
+  float:left;
+  text-align: center;
+  margin-left:15px ;
+  margin-top: 8px;
+   padding-top: 10px;
+  background: url(images/menubackground.png) no-repeat;
+
+}
+.about_active
+{  width: 127px;
+  height: 44px;
+  float:left;
+  text-align: center;
+  margin-left:15px ;
+  margin-top: 8px;
+   padding-top: 10px;
+  background: url(images/menuactive.png) no-repeat;
+
+
+}
+.in3
+{
+  width: 1000px;
+  margin: auto;
+
+  
+  border: solid blue 0px;
+}
+
+.in3_1
+{
+  width: 220;
+ 
+  float: left;;
+ border: solid white 0px;
+ margin-left:10px; 
+}
+
+.in3_1_1
+{
+  width:213px;
+  height: 25px;
+  margin-left:3px ; 
+  text-align: center;
+   padding-top:10px; 
+  background:url(images/leftmenubg.png) no-repeat; 
+}
+.in3_2
+{
+  width:743px;
+  height:auto;  
+  float:left;
+   border: solid blue 0px;
+   margin-left:10px;
+   background: url(images/banner.gif) no-repeat;
+}
+
+.in4
+{
+  width: 1000px;
+  height: auto;
+  
+   border: solid blue 0px;
+ 
+}
+.in4_1
+{
+  width: 220px;
+  height: auto;
+  float:left;
+  margin-left: 10px;
+  margin-top: 15px; 
+  
+   border: solid blue 0px;
+   border-radius: 15px;
+   color: white;
+   text-align: center;
+   font-size:16px;
+   background:url(images/whybg.jpg)repeat-x; 
+ 
+}
+.text
+{
+  text-align:left;
+  font-size:14px; 
+}
+.in4_2
+{
+  width: 350px;
+  height: auto;
+  float:left;
+  margin-left: 10px;
+  margin-top: 15px;
+  
+  background-color:#F8A411; 
+  color: white;
+   border: solid black 0px;
+ 
+}
+.in4_3
+{
+  width: 380px;
+  height: auto;
+  float:left;
+  margin-left: 10px;
+  margin-top: 15px;
+
+   border: solid black 0px;
+ 
+}
+
+.in5
+{
+ width:1000px;
+ height: auto;
+ border: solid black 0px; 
+  
+  text-align:center;
+
+
+}
+.in5_1
+{ width: 13px;
+  height: auto;
+  float: left;
+
+}
+.in5_2
+{ width: 974px;
+  height: auto;
+  float: left;
+  background:url(images/footer_middle.png) repeat-x; 
+
+}
+.in5_3
+{ width: 13px;
+  height: auto;
+  float: left;
+
+}
+.aboutus2
+{
+   width:1000px;
+   height: auto;
+   border: solid blue 0px; 
+   background-color: black;
+
+}
+
+.aboutus2_1
+{
+   width:250px;
+   height: auto;
+   float:left; 
+   margin-bottom: 10px;
+   border: solid white 0px; 
+    background-color: black;
+   
+
+}
+.aboutus2_2
+{
+   width:720px;
+   height: auto;
+   float:left;
+   margin-left:15px; 
+   margin-bottom: 20px; 
+   border: solid white 0px; 
+   background-color: white;
+
+}
+
+.clear
+{
+  clear: both;
+}

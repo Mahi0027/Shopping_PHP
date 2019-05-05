@@ -1,0 +1,188 @@
+@font-face{
+	font-family: billy-argel_rainbow-bridge-personal-use;
+	src: url('font/Rainbow Bridge Personal Use.ttf');
+	font-family:Lobster;
+	src: url('font/Lobster_1.3.otf');
+}
+@font-face{
+	font-family:als-script;
+	src: url('font/alsscrp.ttf');
+}
+@font-face{
+	font-family:bungasai;
+	src: url('font/Bungasai.ttf');
+}
+@font-face{
+	font-family:pacifico;
+	src: url('font/Pacifico.ttf');
+}
+@font-face{
+	font-family
+}
+body
+{
+	margin-top: 0px;
+	margin-left: 0px;
+	background: white;
+}
+a{
+	text-decoration: none;
+	
+}
+a:hover{
+	text-decoration: none;
+	color: chartreuse;
+	transition-delay: 300ms;
+	animation-name: exa;
+	animation-duration: 1s;
+}
+@keyframes exa{
+	0%{ color: forestgreen; left: 0px; top: 0px;opacity: 0.5;}
+	50%{color: beige;left: 0px; top: 1xp;opacity: 0.3;}
+	100%{color:currentColor;left: 0px; top: 2px;opacity: 0.2;}
+}
+.head_row{
+	width: 100%;
+	height: auto;
+	margin: 0%;
+	border: solid px red;
+	background-color:#111;
+}
+.logo
+{
+	width: 5%;
+	height: 4%;
+	margin-left: 2%;
+	margin-top: 1%; 
+	float: left;
+	border:solid 0px red;
+}
+.headline{
+	width: 40%;
+	height: auto;
+	margin: 1% 0% 0% 18%;
+	text-align: center;
+	font-family: Lobster;
+	color: antiquewhite;
+	font-size: 300%;
+	float: left;
+	border: solid 0px red;
+}
+.navig{
+	width: 30%;
+	height: auto;
+	margin: 2% 5% 2% 0%;
+	float: right;
+	border: solid 0px red;
+}
+.navig ul li{
+	display: inline-block;
+	text-decoration: none;
+	color: antiquewhite;
+	margin-left: 5%;
+}
+.navig ul li a{
+	display: inline-block;
+	text-decoration: none;
+	color: antiquewhite;	
+}
+.sidebar{
+	width: 15%;
+	height:100%;
+	
+	z-index: 1;
+	background-color: #111;
+	overflow-x: hidden;
+	float: left;
+	border: solid 0px red;
+}
+.sidebar ul li a{
+	color: #E6A9EC;
+}
+.sidebar ul li a:hover{
+	color: navajowhite;
+	transform: scale(1.2);
+}
+.sidebar ul li ul li:hover{
+	color: navajowhite;
+	transform: scale(1.2);
+}
+.sidebar ul li ul li ul li:hover{
+	color: navajowhite;
+	transform: scale(1.2);
+}
+.sidebar ul li ul li{
+	color: #E9CFEC;
+}
+.sidebar ul li ul li ul li{
+	color: #FDEEF4;
+}
+.sidebar a{
+    padding: 1px 1px 1px 1px;
+    text-decoration: none;
+    font-size: 100%;
+    color: #818181;
+    display: block;
+}
+.sidebar ul li{
+    padding: 1px 1px 1px 1px;
+    text-decoration: none;
+    font-size: 100%;
+    color: #818181;
+    display: block;
+}
+.sidebar div{
+	padding: 1px 1px 1px 1px;
+    text-decoration: none;
+    font-size: 100%;
+    color: #818181;
+    display: block;
+
+}
+.midsection{
+	width: 84%;
+	height: auto;
+	float: left;
+	border: solid 0px red;
+}
+.login_pannel{
+	width: 100%;
+	height: auto;
+	margin-top: 10%;
+}
+.login_1st{
+	width: 25%;
+	color: white;
+	float: left;
+}
+.login_2nd{
+	width: 50%;
+	height: auto;
+	float: left;
+}
+.login_3rd{
+	width: 25%;
+	color: white;
+	float: left;
+}
+.homedecore{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	font-family: Lobster;
+	font-size: 300%;
+	font-weight: bold;
+	color: #3B3131;
+	margin-top: 15%;
+}
+fieldset{
+	padding: 1em;
+	border-radius: 15px;
+}
+label{
+	padding-top: 1%;
+}
+.clear
+{
+	clear: both;
+}
